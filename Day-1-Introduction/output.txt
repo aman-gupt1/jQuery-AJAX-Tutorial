@@ -1,0 +1,7 @@
+Page Loads
+     ↓
+User Clicks Button
+     ↓
+Alert Appears
+     ↓
+"Welcome to jQuery!"

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day 6 - AJAX Basics</title>
+
+    <style>
+
+        #loader{
+            display:none;
+            font-size:20px;
+            margin:20px 0;
+        }
+
+        ul{
+            list-style:none;
+            padding:0;
+        }
+
+        li{
+            padding:8px;
+            border-bottom:1px solid #ddd;
+        }
+
+    </style>
+</head>
+<body>
+
+<h1>AJAX User Fetch Example</h1>
+
+<button id="loadUsers">
+    Load Users
+</button>
+
+<div id="loader">
+    Loading...
+</div>
+
+<ul id="userList"></ul>
+
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+
+<script src="script.js"></script>
+
+</body>
+</html>

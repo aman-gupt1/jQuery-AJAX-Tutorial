@@ -1,0 +1,25 @@
+User Clicks Button
+        ↓
+Alert Appears
+
+User Types
+        ↓
+Console Shows Typed Text
+
+User Hovers Box
+        ↓
+Box Turns Yellow
+
+User Leaves Box
+        ↓
+Box Turns Blue
+
+User Selects Course
+        ↓
+Alert Shows Selected Course
+
+User Submits Form
+        ↓
+Form Does Not Refresh
+        ↓
+Success Alert Appears

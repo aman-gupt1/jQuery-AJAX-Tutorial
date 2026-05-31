@@ -1,0 +1,15 @@
+Before Click
+│
+├── Normal Heading
+├── Normal Paragraphs
+└── Normal Input Box
+
+After Click
+│
+├── Heading turns Blue
+├── Paragraph font size increases
+├── Background becomes Yellow
+├── Input border becomes Green
+├── Container paragraph becomes Red
+├── First paragraph becomes Bold
+└── Last paragraph becomes Underlined

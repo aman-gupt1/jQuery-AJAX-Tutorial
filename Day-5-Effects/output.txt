@@ -1,0 +1,31 @@
+Hide Button
+     ↓
+Box Disappears
+
+Show Button
+     ↓
+Box Appears
+
+Fade Out
+     ↓
+Box Gradually Hides
+
+Fade In
+     ↓
+Box Gradually Appears
+
+Slide Up
+     ↓
+Box Slides Up
+
+Slide Down
+     ↓
+Box Slides Down
+
+Animate
+     ↓
+Box Moves Right
+     ↓
+Width Increases
+     ↓
+Height Increases

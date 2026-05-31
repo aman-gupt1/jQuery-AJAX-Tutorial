@@ -1,0 +1,23 @@
+Initial Page
+│
+├── Heading
+├── Input Field
+├── Add Skill Button
+├── Clear List Button
+└── Skills List
+
+User Adds React
+│
+└── React added to list
+
+User Adds jQuery
+│
+└── jQuery added to list
+
+User Clicks Change Heading
+│
+└── Heading changes
+
+User Clicks Clear List
+│
+└── All list items removed

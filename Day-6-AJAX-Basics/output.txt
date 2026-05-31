@@ -1,0 +1,19 @@
+Page Loads
+     ↓
+
+User Clicks Load Users
+     ↓
+
+Loading Spinner Appears
+     ↓
+
+AJAX Request Sent
+     ↓
+
+Server Returns JSON Data
+     ↓
+
+Users Displayed on Screen
+     ↓
+
+Loading Spinner Disappears

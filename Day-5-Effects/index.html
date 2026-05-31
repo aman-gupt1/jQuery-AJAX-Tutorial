@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day 5 - Effects and Animations</title>
+
+    <style>
+
+        #box{
+            width:200px;
+            height:100px;
+            background:skyblue;
+            margin-top:20px;
+            position:relative;
+            display:flex;
+            justify-content:center;
+            align-items:center;
+        }
+
+        button{
+            margin:5px;
+        }
+
+    </style>
+</head>
+<body>
+
+<h1>jQuery Effects Demo</h1>
+
+<button id="hideBtn">Hide</button>
+<button id="showBtn">Show</button>
+<button id="toggleBtn">Toggle</button>
+
+<br>
+
+<button id="fadeOutBtn">Fade Out</button>
+<button id="fadeInBtn">Fade In</button>
+<button id="fadeToggleBtn">Fade Toggle</button>
+
+<br>
+
+<button id="slideUpBtn">Slide Up</button>
+<button id="slideDownBtn">Slide Down</button>
+<button id="slideToggleBtn">Slide Toggle</button>
+
+<br>
+
+<button id="animateBtn">Animate</button>
+<button id="stopBtn">Stop</button>
+
+<div id="box">
+    Animation Box
+</div>
+
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+
+<script src="script.js"></script>
+
+</body>
+</html>

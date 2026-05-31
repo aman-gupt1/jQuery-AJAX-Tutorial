@@ -18,9 +18,7 @@ A complete beginner-to-intermediate jQuery and AJAX learning repository.
 ## Projects
 
 1. To-Do App
-2. Form Validation
-3. Weather App
-4. GitHub User Finder
+
 
 ## Author
 
